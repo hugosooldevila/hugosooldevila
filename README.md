@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Hugo Soldevila 👋
 
-<!--
-**hugosooldevila/hugosooldevila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Digital Technology & Multimedia student** currently living in **Bergen** 🇳🇴  
+I like building projects that look good, feel smooth to use, and are well structured.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 What I work with
+
+**Frontend**
+- HTML5 / CSS3
+- JavaScript (Vanilla)
+- Responsive Design
+
+**Currently learning**
+- React
+- PHP
+
+**Tools**
+- Git & GitHub
+- Basic SQL
+
+**Extra experience**
+- Unity (2D)
+- Basic Machine Learning concepts
+
+---
+
+## 📌 Projects
+
+Some things I've built / worked on:
+
+- **Next Destiny** — Travel destination explorer web app  
+  *Search, filters, favorites system, multi-language UI, responsive layout.*
+
+- **Unity 2D Game Project** — Story mode game with progressive difficulty  
+  *Levels, timers, dynamic spawning, menus, animations.*
+
+---
+
+## 🌍 A bit more about me
+
+- 🇪🇸 From Spain
+- 🇳🇴 Recently moved to Norway
+- 🚀 Looking to start my career and grow through real projects
+
+---
+
+## 📫 Contact
+
+- 📧 Email: *hugosoldevilawork@gmail.com*
+- 💼 LinkedIn: *www.linkedin.com/in/hugosoldevila*
+- 🌐 Portfolio: **
+
+---
+
+Thanks for stopping by ⭐  
+Feel free to check out my repositories!
