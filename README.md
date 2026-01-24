@@ -18,11 +18,11 @@ I like building projects that look good, feel smooth to use, and are well struct
 
 **Tools**
 - Git & GitHub
-- Basic SQL
+- SQL
 
 **Extra experience**
 - Unity (2D)
-- Basic Machine Learning concepts
+- Machine Learning concepts
 
 ---
 
@@ -50,7 +50,7 @@ Some things I've built / worked on:
 
 - 📧 Email: *hugosoldevilawork@gmail.com*
 - 💼 LinkedIn: *www.linkedin.com/in/hugosoldevila*
-- 🌐 Portfolio: **
+- 🌐 Portfolio: *https://portafolio.hugosoldevila.com*
 
 ---
 
