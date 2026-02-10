@@ -11,9 +11,9 @@ I like building projects that look good, feel smooth to use, and are well struct
 - HTML5 / CSS3
 - JavaScript (Vanilla)
 - Responsive Design
+- React
 
 **Currently learning**
-- React
 - PHP
 
 **Tools**
